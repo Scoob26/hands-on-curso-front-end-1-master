@@ -4,6 +4,7 @@
  /* Componentes*/
 @import 'header.css';
 @import 'buttons.css';
+@import 'main.css';
  /* Reset CSS*/
  *
  { 
@@ -16,8 +17,21 @@
      vertical-align: baseline;
      text-decoration: none;
      font-family: "Source Sans 3", sans-serif;
-
+     font-weight: 300;
 
  }
-     
- 
+
+ .container    
+ {
+    width: 1024px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+ }
+  .row
+  {
+    display: flex;
+    flex-direction: row;
+  } 
+
+  

@@ -1,0 +1,34 @@
+.Sobre-Web-design
+{
+  align-items: center;
+}
+ 
+.Sobre-Web-design article h1
+{
+    font-size: 70px;
+    line-height: 90%;
+    font-weight: 400;
+    color: #333366;
+}
+ 
+.Sobre-Web-design article h2
+{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 200%;
+    color: #3399cc;
+}
+
+.Sobre-Web-design article p
+{
+    color: #3399cc;
+    margin: 10px 0 40px ;
+}
+
+.Sobre-Web-design figcaption img
+{
+    width:600px ;
+}
+
+
