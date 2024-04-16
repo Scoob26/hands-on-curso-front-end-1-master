@@ -1,4 +1,4 @@
-@media( max-width: 1900px)
+@media( max-width: 2000px)
 
 {
    body
@@ -49,5 +49,14 @@
    body
    {
        background-size: 600px;
+   }
+}
+
+@media( max-width: 1100px)
+
+{
+   body
+   {
+       background-size: 100px;
    }
 }

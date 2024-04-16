@@ -3,20 +3,20 @@
      padding: 5px 20px;
  }
  .btn.btn-Laranja
- {    
+{    
     display: block;
     margin:  0 2px;
     text-decoration: none;
-     color: white;
-     background-color: #ffb36b; /* Laranja*/
-     transition: background-color 0.3s;
-     border-radius: 15px; /* arredonda as bordas*/
-      }
+    color: white;
+    background-color: #ffb36b; /* Laranja*/
+    transition: background-color 0.3s;
+    border-radius: 15px; /* arredonda as bordas*/
+}
 
-      .btn.btn-laranja:hover
-      {
-          background-color: #ff6347; /* Laranja mais escuro*/
-      }
+.btn.btn-laranja:hover
+{
+    background: #ff6347; /* Laranja mais escuro*/
+}
           
           
       
